@@ -1,2 +1,2 @@
-Nama = input("siapa disana")
+nama = input("siapa disana")
 print(f"hello, {nama}!")
